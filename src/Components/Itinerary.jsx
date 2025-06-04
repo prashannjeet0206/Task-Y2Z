@@ -1,5 +1,13 @@
+import Header from "./Header";
+import ItineraryCards from "./ItineraryCard";
+
 const Itinerary = () => {
-  return <div className="bg-red-500 rounded-lg">Itinerary</div>;
+  return (
+    <div className="bg-white rounded-lg shadow-xl ">
+      <Header />
+      <ItineraryCards />
+    </div>
+  );
 };
 
 export default Itinerary;
