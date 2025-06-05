@@ -1,8 +1,14 @@
+import indiaGate from "../assets/india-gate.jpg";
+import redFort from "../assets/redfort.jpg";
+import qutub from "../assets/qutub.jpg";
+import lotus from "../assets/lotus.jpg";
+import tomb from "../assets/tomb.jpg";
+
 export const PlacesData = [
   {
     id: 1,
     name: "India-Gate",
-    image: "../src/assets/india-gate.jpg",
+    image: indiaGate,
     rating: 4.6,
     reviews: 281124,
     description:
@@ -11,7 +17,7 @@ export const PlacesData = [
   {
     id: 2,
     name: "Red Fort",
-    image: "../src/assets/redfort.jpg",
+    image: redFort,
     rating: 4.5,
     reviews: 168729,
     description:
@@ -20,7 +26,7 @@ export const PlacesData = [
   {
     id: 3,
     name: "Qutub Minar",
-    image: "../src/assets/qutub.jpg",
+    image: qutub,
     rating: 4.5,
     reviews: 151556,
     description:
@@ -29,7 +35,7 @@ export const PlacesData = [
   {
     id: 4,
     name: "Lotus Temple",
-    image: "../src/assets/lotus.jpg",
+    image: lotus,
     rating: 4.5,
     reviews: 67770,
     description:
@@ -38,7 +44,7 @@ export const PlacesData = [
   {
     id: 5,
     name: "Humayun's Tomb",
-    image: "../src/assets/tomb.jpg",
+    image: tomb,
     rating: 4.5,
     reviews: 46024,
     description:
