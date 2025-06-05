@@ -3,7 +3,7 @@ import ItineraryCards from "./ItineraryCard";
 
 const Itinerary = () => {
   return (
-    <div className="bg-white rounded-lg shadow-xl ">
+    <div className="bg-white rounded-lg shadow-xl flex flex-col ">
       <Header />
       <ItineraryCards />
     </div>

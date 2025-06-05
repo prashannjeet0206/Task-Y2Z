@@ -1,6 +1,6 @@
 const Places = () => {
   return (
-    <div>
+    <div className="hidden md:block">
       <iframe
         title="Google Maps"
         src="https://maps.google.com/maps?q=delhi&t=&z=13&ie=UTF8&iwloc=&output=embed"

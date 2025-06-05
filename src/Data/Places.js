@@ -1,5 +1,6 @@
 export const Places = [
   {
+    id: 1,
     name: "India-Gate",
     image: "../src/assets/india-gate.jpg",
     rating: 4.6,
@@ -8,6 +9,7 @@ export const Places = [
       "India gate is war memorial located in New Delhi along the Rajpath.It is dedicated to 82,000 soilders,both India and British.",
   },
   {
+    id: 2,
     name: "Red Fort",
     image: "../src/assets/redfort.jpg",
     rating: 4.5,
@@ -16,6 +18,7 @@ export const Places = [
       "The Red Fort is historical fort in old Delhi and is located on the bank of river Yamuna.",
   },
   {
+    id: 3,
     name: "Qutub Minar",
     image: "../src/assets/qutub.jpg",
     rating: 4.5,
@@ -24,6 +27,7 @@ export const Places = [
       "Qutub Minar is a victory tower located in Qutub complex,a UNESCO world heritage site.",
   },
   {
+    id: 4,
     name: "Lotus Temple",
     image: "../src/assets/lotus.jpg",
     rating: 4.5,
@@ -32,6 +36,7 @@ export const Places = [
       "Located in national capital of New Delhi.The Lotus temple is dedicated to Bahai faith.",
   },
   {
+    id: 5,
     name: "Humayun's Tomb",
     image: "../src/assets/tomb.jpg",
     rating: 4.5,
