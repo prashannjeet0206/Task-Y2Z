@@ -1,4 +1,4 @@
-export const Places = [
+export const PlacesData = [
   {
     id: 1,
     name: "India-Gate",
